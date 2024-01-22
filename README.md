@@ -20,13 +20,16 @@ Crie um sistema aonde o Usuário possa cadastrar, listar, editar e deletar clien
 ### Observações
 As APIs criadas no NextJS devem ser utilizadas para realizar as operações da aplicação web (NextJS) e mobile (React Native).
 
-### Wireframes
-#### Web - NextJS
+### Wireframes - Aplicação Web (NextJS)
 ![Wireframe](assets/web-tela-login.png)
 ![Wireframe](assets/web-tela-cadastro.png)
 ![Wireframe](assets/web-tela-listagem.png)
 ![Wireframe](assets/web-tela-edicao.png)
-#### Mobile - React Native
+### Wireframes - Aplicação Mobile (React Native)
+![Wireframe](assets/mobile-tela-login.png)
+![Wireframe](assets/mobile-tela-cadastro.png)
+![Wireframe](assets/mobile-tela-listagem.png)
+![Wireframe](assets/mobile-tela-edicao.png)
 
 ## Perguntas frequêntes
 ### Quais bibliotecas eu posso usar?
