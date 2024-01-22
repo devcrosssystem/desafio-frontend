@@ -32,6 +32,8 @@ As APIs criadas no NextJS devem ser utilizadas para realizar as operações da a
 ![Wireframe](assets/mobile-tela-edicao.png)
 
 ## Perguntas frequêntes
+### Em quanto tempo eu posso fazer o desafio?
+> O prazo limite para entrega do teste no email vagas@crosssystem.com.br é dia 31/01/2024.
 ### Quais bibliotecas eu posso usar?
 > Você pode utilizar qualquer uma. Porém é desejável a utilização das bibliotecas:
 > #### NextJS
@@ -42,8 +44,6 @@ As APIs criadas no NextJS devem ser utilizadas para realizar as operações da a
 >  - React Native Async Storage
 ### Qual versão do NextJS devo utilizar?
 > Da versão 13 para cima, utilizando a arquitetura App Router.
-### Em quanto tempo eu posso fazer o desafio?
-> Você deve completar no tempo previsto pela nossa Equipe aonde você foi indicado à fazer o desafio
 ### Acho a Interface feia, posso fazer uma do meu jeito?
 > Sim, tendo em vista que a dificuldade de realizar a sua interface não será considerada. Dificuldades na criação da interface seguindo o Wireframe serão ouvidos.
 ### Preciso fazer o Deploy da minha aplicação em algum lugar?
